@@ -1,20 +1,22 @@
 /*
- * copyright (c) 2023 therealone78 <bajcsielias78@gmail.com>
+ * SPDX-License-Identifier: LGPL-3.0-or-later
  *
- * this file is part of the ch3ck-m4t3 project
+ * Copyright (C) 2023 TheRealOne78 <bajcsielias78@gmail.com>
  *
- * ch3ck-m4t3 is free software: you can redistribute it and/or modify
- * it under the terms of the gnu lesser general public license as published by
- * the free software foundation, either version 3 of the license, or
+ * This file is part of the Ch3ck-M4t3 project
+ *
+ * Ch3ck-M4t3 is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * ch3ck-m4t3 is distributed in the hope that it will be useful,
- * but without any warranty; without even the implied warranty of
- * merchantability or fitness for a particular purpose.  see the
- * gnu general public license for more details.
+ * Ch3ck-M4t3 is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
  *
- * you should have received a copy of the gnu lesser general public license
- * along with ch3ck-m4t3. if not, see <http://www.gnu.org/licenses/>.
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with Ch3ck-M4t3. If not, see <http://www.gnu.org/licenses/>.
  */
 
 #include <stdio.h>

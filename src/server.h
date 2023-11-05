@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+ *
  * Copyright (C) 2023 TheRealOne78 <bajcsielias78@gmail.com>
  *
  * This file is part of the Ch3ck-M4t3 project
