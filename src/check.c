@@ -19,8 +19,8 @@
  * along with Ch3ck-M4t3. If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __SERVER_H__
-#define __SERVER_H__
+#include "check.h"
 
+int8_t check(int8_t old_row_pos, int8_t old_column_pos, int8_t new_row_pos, int8_t new_column_pos, chess_board *original_board, chess_board *staging_board, rules *config) {
 
-#endif // __SERVER_H__
+}

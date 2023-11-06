@@ -19,8 +19,22 @@
  * along with Ch3ck-M4t3. If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __SERVER_H__
-#define __SERVER_H__
+#ifndef __POPULATE_H__
+#define __POPULATE_H__
 
+#include <stdint.h>
 
-#endif // __SERVER_H__
+#include "check.h"
+
+/*
+ * Populate the chess board with the initial chess pieces.
+ *
+ * This takes a pointer of the original board, a pointer of the main
+ * TODO: Finish this comment
+ */
+int8_t populate(chess_board *original_board, /* Current chess board structure */
+                chess_board *staging_board,  /* Staging chess board structure to be validated */
+                rules *config                /* Set of chess rules */
+);
+
+#endif // __POPULATE_H__
